@@ -306,6 +306,6 @@ The developed models are evaluated using:
 
 ## AI Tools Usage Acknowledgement
 
-Generative AI tools, including ChatGPT and Google Gemini, were used during the development of this project to assist with understanding machine learning concepts, debugging code, improving code structure, and developing the Streamlit dashboard interface.
+Generative AI tools, including ChatGPT and Google Gemini, were used during the development of this project to assist with debugging code, improving code structure, and developing the Streamlit dashboard interface.
 
 All model development, training, evaluation, result interpretation, and final project decisions were reviewed and verified by the project developer. The developer takes responsibility for the submitted implementation and results.
